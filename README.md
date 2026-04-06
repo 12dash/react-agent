@@ -1,2 +1,3 @@
-# react-agent
-Building a React agent from scratch
+# ReAct Agent
+
+I just want to learn how an ReAct Agent works :)
